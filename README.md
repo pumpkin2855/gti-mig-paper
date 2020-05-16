@@ -9,7 +9,7 @@ This paper is part of our joint master's thesis work.
 
 ## Install requirements
 
-`pip install -r requirements`
+`pip install -r requirements.txt`
 
 ## Structure
 
