@@ -3,7 +3,7 @@
 Codes by Nicolas Golenvaux & Pablo Gonzalez Alvarez.
 
 This repository contains the companion codes for the paper
-[An LSTM approach to Predict Migration based on Google Trends](https://) by Nicolas Golenvaux, Pablo Gonzalez Alvarez, Harold Silvère Kiossou, Pierre Schaus.
+[An LSTM approach to Predict Migration based on Google Trends](https://arxiv.org/abs/2005.09902) by Nicolas Golenvaux, Pablo Gonzalez Alvarez, Harold Silvère Kiossou, Pierre Schaus.
 
 This paper is part of our joint master's thesis work.
 
