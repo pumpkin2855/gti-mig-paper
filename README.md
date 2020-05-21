@@ -23,9 +23,16 @@ Files without a comment have a descriptive name to understand what they contain:
         requirements.txt
         data/
             LICENSE.md                      CC-BY-4.0 License
+            basicDataLSTM.pkl
+            bestResultLSTM.pkl
+            dataANN.pkl
             destination_countries.csv
             keywords.csv
+            logDataLR.pkl
             origin_countries.csv
+            replication_bilateral.dta
+            resultANN_test.pkl
+            resultANN_train.pkl
 
 
 ## License
@@ -36,6 +43,7 @@ Except stated otherwise (cf. [Credits](#credits)), the content of this repositor
 
 	Data sources:
         Google Trends (https://www.google.com/trends)
+        M. H. Böhme, A. Gröger, and T. Stöhr, "Searching for a better life: Predicting international migration with online search keywords" - Researcher Data (https://www.sciencedirect.com/science/article/pii/S0304387819304900#mmc2)
         OECD International Migration Database (https://www.oecd-ilibrary.org/content/data/data-00342-en)
         United Nations Department of Economic and Social Affairs Population Division UN DESA. International Migrant Stock 2019 (https://www.un.org/en/development/desa/population/index.asp)
         World Bank 2020 World Development Indicators (https://datacatalog.worldbank.org/dataset/world-development-indicators)
